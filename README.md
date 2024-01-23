@@ -12,7 +12,7 @@
 - <b>Risk Assessment Report (RAR)</b>
   - [Simulation of Organization with Vulnerabilities](https://drive.google.com/file/d/1I4KK98iVWLDzUkL8d0nGl9ckfLB3zFBv/view?usp=sharing)
 - <b>My time at AWS as a Security Consultant/Cloud Engineer</b>
-  - [Highly Available Website Architecture in AWS](https://drive.google.com/file/d/1x7gq8ILM_fwOXHrEabaHfUFtUipG4qc5/view?usp=sharing)
+  - [Highly Available Web Application in AWS](https://drive.google.com/file/d/1x7gq8ILM_fwOXHrEabaHfUFtUipG4qc5/view?usp=sharing)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
