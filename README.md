@@ -14,6 +14,7 @@
 - <b>My time at AWS as a Security Consultant/Cloud Engineer</b>
   - [Highly Available Web Application in AWS](https://docs.google.com/presentation/d/1z9eAV_quyTLkegRjyY6nXQkUZVYVR4eP/edit?usp=sharing&ouid=117836549247985822423&rtpof=true&sd=true)
   - [Cloud Migration for Data Analytics Company to AWS](https://docs.google.com/presentation/d/1gi50cEvxLsh6X96w_38ZfmRSulBPkxLV/edit?usp=sharing&ouid=117836549247985822423&rtpof=true&sd=true)
+  - [Security Architecture for AWS Infrastructure](https://docs.google.com/presentation/d/1Q3I5oirZgeer08_61nHbUfy-e3XpR8FN/edit?usp=sharing&ouid=117836549247985822423&rtpof=true&sd=true)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
