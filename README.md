@@ -11,7 +11,7 @@
   - [Office of Personnel Management (OPM) Breach.](https://drive.google.com/file/d/1r0ZgMN1lbi3BYCQGNbHjDy7p2CucPQ_x/view?usp=sharing)
 - <b>Risk Assessment Report (RAR)</b>
   - [Simulation of Organization with Vulnerabilities](https://drive.google.com/file/d/1I4KK98iVWLDzUkL8d0nGl9ckfLB3zFBv/view?usp=sharing)
-- <b>My time at AWS as a Security Consultant/Cloud Engineer</b>
+- <b>My time at AWS as a Security Solutions Architect</b>
   - [Highly Available Web Application in AWS](https://docs.google.com/presentation/d/1z9eAV_quyTLkegRjyY6nXQkUZVYVR4eP/edit?usp=sharing&ouid=117836549247985822423&rtpof=true&sd=true)
   - [Cloud Migration for Data Analytics Company to AWS](https://docs.google.com/presentation/d/1gi50cEvxLsh6X96w_38ZfmRSulBPkxLV/edit?usp=sharing&ouid=117836549247985822423&rtpof=true&sd=true)
   - [Security Architecture for AWS Infrastructure](https://docs.google.com/presentation/d/1Q3I5oirZgeer08_61nHbUfy-e3XpR8FN/edit?usp=sharing&ouid=117836549247985822423&rtpof=true&sd=true)
